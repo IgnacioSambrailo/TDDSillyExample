@@ -1,0 +1,8 @@
+// Test de mi Sistema
+Operaciones_Suma_SumaDeEnterosExitosa:
+    resultado = sumar(2,2)
+    assert resultado == 4
+
+// Funcionalidad de mi sistema
+sumar(numero_1,numero_2):
+    return numero_1+numero_2
